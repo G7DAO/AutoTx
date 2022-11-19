@@ -1,11 +1,3 @@
-Team Name: AutoTx
-
-Team Members:
-- David Ryan (GitHub handle @davidryan59)
-- Alex (GitHub handle @alexcheema)
-
------------------------------
-
 # AutoTx - a Metamask Snap
 
 ## Summary
